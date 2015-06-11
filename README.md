@@ -1,4 +1,6 @@
 # angular-schema-form-builder
+
+[![Join the chat at https://gitter.im/nicklasb/angular-schema-form-builder](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/nicklasb/angular-schema-form-builder?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 A user interface for building definitions for angular-schema-form.
 
 This repo is a response to [Schema-Form Issue #304](https://github.com/Textalk/angular-schema-form/issues/304). At the moment it's really just a public design document to facilitat collaboration from the community of Schema-Form users.
